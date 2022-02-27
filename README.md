@@ -3,7 +3,7 @@ L-system implementation with 'cross-breeding' option. This demo creates two plan
 
 To allow this, rules can have multiple 'deffinitions' that will be chosen at random. 
 
-Note that in the following example, the rule 'X' has 5 possible outcomes. One will be chosen randomly.
+Note that in the following example, the rule 'X' has 5 possible outcomes. One will be chosen randomly each time.
 
 ```
 rules1 = {}
